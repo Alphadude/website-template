@@ -1587,7 +1587,7 @@ blockquote{
     height:100%
 }
 .mil-banner-panel{
-    background-color:rgba(18,24,32,.1);
+    background-color:rgba(0, 3, 7, 0.1);
     height:100px;
     display:-webkit-box;
     display:-ms-flexbox;
